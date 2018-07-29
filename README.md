@@ -1,6 +1,6 @@
-# Graph Execution Model
+# Graph Execution
 
-This is a POC that establishes a mechanism by which multiple 'requirements' (things that need to be true in a cloud environment) can express their dependency on other Requirement types, and those dependencies be honoured in the execution order. It is the delivery for [AD-958](https://jira.dwp.gov.uk/browse/AD-958).
+This is a POC that establishes a mechanism by which multiple 'requirements' (things that need to be true in a cloud environment) can express their dependency on other Requirement types, and those dependencies be honoured in the execution order.
 
 ## Notes
 
